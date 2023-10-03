@@ -1,0 +1,87 @@
+{
+    "nombre": "Patricia Gabriela Delgadillo Espinoza",
+    "fecha de nacimiento": "8 de abril 1991",
+    "teléfono de contacto": "79771774",
+    "email": "pgdelgadillo@gmail.com",
+    "Idiomas": [
+        {
+            "idioma": "Español",
+            "nivel": "Lengua nativa"
+        },
+        {
+            "idioma": "Portugués",
+            "nivel": "Intermedio"
+        },
+        {
+            "idioma": "Inglés",
+            "nivel": "Intermedio B1"
+        }
+    ],
+    "formación académica": [
+        {
+            "nivel": "Licenciatura",
+            "varrera": "Comunicadora Social",
+            "institución": "Universidad Mayor de San Simón",
+            "fecha": "Noviembre 2018"
+        },
+        {
+            "nivel": "Diplomado",
+            "especialidad": "Educación Superior con enfoque por competencias enfocado al manejo de estrategias didácticas TICS",
+            "institución": "",
+            "fecha": "Abril 2019"
+        },
+        {
+            "nivel": "Curso",
+            "especialidad": "Competencias digitales para profesionales",
+            "institución": "Google Actívate",
+            "fecha": "Abril 2019"
+        },
+        {
+            "nivel": "Curso",
+            "especialidad": "Social Media Management",
+            "institución": "Coursera",
+            "fecha": "Marzo 2023"
+        }
+    ],
+    "experiencia": [
+        {
+            "empresa": "Laboratorio Tecnosocial",
+            "cargo": "Voluntariado",
+            "funciones": [
+                "Proponer soluciones tecnológicas para el contexto boliviano"
+            ]
+        },
+        {
+            "empresa": "Design Box - Empresa de Marketing Digital",
+            "cargo": "Gestión de Contenido para Redes Sociales",
+            "periodo": "2019 - 2021",
+            "funciones": [
+                "Diseño de imágenes, videos y diversos formatos adecuado para cada red social",
+                "Gestión de publicación para diversos clientes en Bolivia y Oklahoma - USA",
+                "Trabajo en coordinación conjunta con el cliente, para crear, cronogramas de contenido, junto a diseños alineados a su identidad corporativa",
+                "Responsable de organizar y ejecutar sesiones fotográficas (imagen y video) a los productos/ servicios del cliente",
+                "Fotografía digital, edición, retoques, escalabilidad, filtros y buscando siempre actualización y tendencias"
+            ]
+        },
+        {
+            "empresa": "LiveSEO - APD Marketing Digital y SEO (Brasil)",
+            "cargo": "Especialización en Contenido SEO",
+            "periodo": "05/ 2021 - 04/2022",
+            "funciones": [
+                "Diseño de imágenes para blog, redacción de contenidos y copywriting SEO, gestión de proyectos SEO, traducción de contenidos y análisis de métricas de analytics y Search Console",
+                "Presentación para clientes sobre cómo optimizar imágenes para SEO",
+                "Capacitación continua en customer experience, ahrefs, gestión de tiempos, y resolución de conflictos"
+            ]
+        },
+        {
+            "empresa": "Cies Salud Sexual - Reproductiva",
+            "cargo": "Responsable de Comunicación y Difusión",
+            "periodo": "2015 - 2016",
+            "funciones": [
+                "Diseño de un plan de comunicación, diseño de materiales IEC (información, educación, comunicación), atención al cliente, asumo el cargo de coordinadora nacional del programa",
+                "Fotografía digital, edición, retoques, escalabilidad",
+                "Diseño de campañas de salud junto a sus materiales de difusión, volantes, afiches, trípticos, gestión de entrevistas con medios masivos de comunicación"
+            ]
+        }
+    ]
+}
